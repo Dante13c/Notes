@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "firefox",
+            "name": "http://console.log(ai_collector())",
+            "request": "launch",
+            "url": "http://console.log(ai_collector())"
+        }
+    ]
+}
